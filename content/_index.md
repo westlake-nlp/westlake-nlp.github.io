@@ -35,7 +35,7 @@ sections:
       title: 
         <font color="#003055">WestlakeNLP<br><font size="7">自然语言处理实验室</font></font>
       image:
-        filename: sch.jpg
+        filename: sch.png
       text: |-
         <font size="4">Prof. Zhang's main research interests are natural language processing, machine learning and text mining, working on machine learning and inference algorithms for structural prediction, statistical parsing, Chinese syntactic processing, text generation, machine translation, text summarization, dialogue system, information extraction, sentiment analysis and financial market predication.</font>
 
