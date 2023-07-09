@@ -1,0 +1,35 @@
+# Theme metadata
+name = "Custom Theme"
+
+[light]
+  primary = "#ff7b00"
+
+  # Links
+  link = "#3273dc"
+  link_hover = "rgb(54, 54, 54)"
+
+  # Menu
+  menu_primary = "#003055"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#ff7b00"
+  menu_title = "#FFFFFF"
+
+  # Home sections
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#FFFFF0"
+
+[dark]
+  primary = "#ff7b00"
+  # link = "#ff7b00"
+  # link_hover = "#ff7b00"
+  # background = "rgb(218,112,214)"
+  # home_section_odd = "rgb(26, 32, 44)"
+  # home_section_even = "rgb(26, 32, 44)"
+  menu_primary = "#003055"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#ff7b00"
+  menu_title = "#FFFFFF"
+
+  # Home sections
+  home_section_odd = "#323440"
+  home_section_even = "#1A202C"

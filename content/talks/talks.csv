@@ -1,0 +1,44 @@
+Year, Talk, Title
+2022,Keynote at MIT Technology Review 20 year forum,Robustness for machine translation
+2022,Keynote at CNCC few-shot NLP forum,Data Augmentation for few-shot NLI
+2022,Keynote at CCAC,Semantic structures for sentiment
+2022,University of Edinburgh ICCS,OOD generalization for NLP
+2021,Keynote at IALP,Challenges in NLP
+2021,Keynote at PACLIC,Document-Level NLP
+2021,Oxford ML Summer School,Challenges in NLP
+2021,Keynote at CAAI,Open-domain Dialogue
+2021,Keynote at YSSNLP,Compositional Generalization of Machine Translation
+2020,Keynote at CTC,Beyond Words — Commonsense Reasoning in Language Understanding
+2020,Chair at COLING2020 PANEL2,On The Generalization of NLP Models – Ways Around Data Hunger
+2020,Keynote at COLING2020 WS-MSR,AMR to Text Generation - A Brief Review And A Case Study Using Back-parsing
+2020,Keynote at CAAI Industry Forum,The Bottleneck of NLP Fundamental Tasks in NLP
+2019,Hundsun Technologies Inc,Natural Language Processing And Computational Financial Research
+2019,Technische Universit ̈at Darmstadt,Graph Neural Networks in NLP
+2019,HSBC open day on Sep,NLP and financial markets
+2019,Keynote at CCF Social Media Program,Cross-domain sentiment analysis
+2019,Dagstuhl seminar,Invited attendance
+2018,Uppsala University,Graph Recurrent Neural Networks
+2018,Cloud Town Conference by Alibaba,Deep Learning for parsing
+2017,Yuan Ze University,Stock Prediction
+2017,A-STAR,Deep Learning for parsing
+2017,Keynote at Singapore Deep Learning for Finance Summit,Using deep learning for predicting USA stock markets
+2016,Keynote at Deep Learning Summit Singapore,Deep Learning for sentiment analysis
+2016,Keynote at SmartConnected.World and ICEC 2016. Suwon. Korea,Deep Learning
+2016,University of Berkeley,Neural network structured prediction
+2016,University of South California. Information Science Institute,Neural network structured prediction
+2016,Singapore Actuary Society,Text mining
+2015,Keynote at Global Innovators Forum on Technology and Society. Harbin. China,Text mining
+2015,Keynote at ADSM Deep learning workshop,Deep Learning for stock market prediction
+2014,Tsinghua University (China),CCG parsing
+2014,Universitat Pompeu Fabra (Spain),Statistical text generation
+2014,University of A Coruna (Spain),Chinese syntactic analysis
+2014,Peking University,Chinese syntactic analysis
+2013,Tsinghua University,Dependency parsing
+2013,Baidu Inc (China),Word ordering
+2013,Keynote at CWMT,Semantics Based Statistical Machine Translation
+2012,Institute of Infocomm Research (Singapore),CCG parsing
+2011,Cambridge NLIP seminar,Surprisingly Efficient Parsing for a Wide-Coverage Lexicalised-Grammar Parser
+2010,Uppsala University (Sweden),Dependency parsing
+2009,the NLIP group seminar. University of Cambridge,Dependency parsing
+2008,the School of Informatics (ICCS). University of Edinburgh,Dependency parsing
+2008,Sharp Research Europe Ltd.,Word segmentation
