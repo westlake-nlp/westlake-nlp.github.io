@@ -141,7 +141,7 @@ sections:
         ## PhD Students
         <table width="100%" align="center" style="table-layout:fixed;">
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/jiachen.png" width="100" height="100"/><h4>Chen Jia</h4><font color="#9EA0A4">PhD Student</font></td>            
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/yinyongjing.jpg" width="100" height="100"/><h4>Yongjing Yin</h4><font color="#9EA0A4">PhD Student</font></td>          
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/yanjianhao.jpg" width="100" height="100"/><h4><a href="https://elliottyan.github.io/" style="text-decoration: none;">Jianhao Yan</a></h4><font color="#9EA0A4">PhD Student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/chenyulong.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=8P23zSkAAAAJ&hl=en" style="text-decoration: none;">Yulong Chen</a></h4><font color="#9EA0A4">PhD Student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/gaowenyang.jpg" width="100" height="100"/><h4>Wenyang Gao</h4><font color="#9EA0A4">PhD Student</font></td>
@@ -155,27 +155,19 @@ sections:
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/songchiyu.jpg" width="100" height="100"/><h4>Chiyu Song</h4><font color="#9EA0A4">PhD Student</font></td>  
             </tr>
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/songyaoxian.jpg" width="100" height="100"/><h4>Yaoxian Song</h4><font color="#9EA0A4">PhD Student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/wusixuan.jpg" width="100" height="100"/><h4>Sixuan Wu</h4><font color="#9EA0A4">PhD Student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/baoguangsheng.jpg" width="100" height="100"/><h4>Guangsheng Bao</h4><font color="#9EA0A4">PhD Student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/wangcunxiang.jpg" width="100" height="100"/><h4><a href="https://wangcunxiang.github.io/" style="text-decoration: none;">Cunxiang Wang</a></h4><font color="#9EA0A4">PhD Student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/yangzijie.jpg" width="100" height="100"/><h4>Zijie Yang</h4><font color="#9EA0A4">co-supervisor</font></td> 
-            </tr>
-            <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/yinyongjing.jpg" width="100" height="100"/><h4>Yongjing Yin</h4><font color="#9EA0A4">PhD Student</font></td>
             </tr>
         </table> 
 
         ## Research Assistants
         <table width="100%" align="center" style="table-layout:fixed;">
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/huhanxu.jpg" width="100" height="100"/><h4>Hanxu Hu</h4><font color="#9EA0A4">Westlake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/liupai.jpg" width="100" height="100"/><h4>Pai Liu</h4><font color="#9EA0A4">Westlake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/mayingpeng.jpg" width="100" height="100"/><h4><a href="https://yingpengma.github.io/" style="text-decoration: none;">Yingpeng Ma</a></h4><font color="#9EA0A4">Westlake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangyidong.jpg" width="100" height="100"/><h4><a href="https://qianlanwyd.github.io/" style="text-decoration: none;">Yidong Wang</a></h4><font color="#9EA0A4">Weslake University</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/shiyuefeng.jpg" width="100" height="100"/><h4>Yuefeng Shi</h4><font color="#9EA0A4">Westlake University</font></td>
-            </tr>
-            <tr>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/lupanzhong.png" width="100" height="100"/><h4><a href="https://nlpz127.github.io/homepage/" style="text-decoration: none;">Panzhong Lu</a></h4><font color="#9EA0A4">Weslake University</font></td>
             </tr>
         </table>
