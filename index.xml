@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WestlakeNLP</title><link>https://westlake-nlp.github.io/</link><atom:link href="https://westlake-nlp.github.io/index.xml" rel="self" type="application/rss+xml"/><description>WestlakeNLP</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://westlake-nlp.github.io/media/icon_hua5de30d51c364d4bdd140e3e0b499a9a_251609_512x512_fill_lanczos_center_3.png</url><title>WestlakeNLP</title><link>https://westlake-nlp.github.io/</link></image><item><title>Example Talk</title><link>https://westlake-nlp.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>WestlakeNLP's 14 long papers have been accepted by ACL-2023</title><link>https://westlake-nlp.github.io/post/acl2023/</link><pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/post/acl2023/</guid><description>&lt;h2 id="intro">Intro&lt;/h2>
+&lt;p>Regarding the field of artificial intelligence, conferences are more important than journals. According to Google Scholar statistics, the Meeting of the Association for Computational Linguistics (ACL) is the most important publication venue in the field of artificial intelligence - natural language processing and the only CCF-A class conference in this area. The acceptance rate is consistently around 20%.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="image" srcset="
+/post/acl2023/image1_hue04397d84b02fa99ee70b5dbd002f6bf_128663_f70ecfd4f499505beceb827e2b8a0990.webp 400w,
+/post/acl2023/image1_hue04397d84b02fa99ee70b5dbd002f6bf_128663_e3703ca775152292d044678d234255c8.webp 760w,
+/post/acl2023/image1_hue04397d84b02fa99ee70b5dbd002f6bf_128663_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://westlake-nlp.github.io/post/acl2023/image1_hue04397d84b02fa99ee70b5dbd002f6bf_128663_f70ecfd4f499505beceb827e2b8a0990.webp"
+width="760"
+height="303"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>WestlakeNLP has accepted &lt;strong>14 long papers to ACL-2023&lt;/strong> held in Canada, including 9 papers in the Main track and 5 papers in the Findings track.&lt;/p></description></item><item><title>Cross-domain Generalization for AMR Parsing</title><link>https://westlake-nlp.github.io/publication/2022.-cross-domain-generalization-for-amr-parsing/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-cross-domain-generalization-for-amr-parsing/</guid><description/></item><item><title>Multi-Granularity Optimization for Non-Autoregressive Translation</title><link>https://westlake-nlp.github.io/publication/2022.-multi-granularity-optimization-for-non-autoregressive-translation/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-multi-granularity-optimization-for-non-autoregressive-translation/</guid><description/></item><item><title>Prompt-based Distribution Alignment for Domain Generalization in Text Classification</title><link>https://westlake-nlp.github.io/publication/2022.-prompt-based-distribution-alignment-for-domain-generalization-in-text-classification/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-prompt-based-distribution-alignment-for-domain-generalization-in-text-classification/</guid><description/></item><item><title>RLET: A Reinforcement Learning Based Approach for Explainable QA with Entailment Trees</title><link>https://westlake-nlp.github.io/publication/2022.-rlet-a-reinforcement-learning-based-approach-for-explainable-qa-with-entailment-trees/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-rlet-a-reinforcement-learning-based-approach-for-explainable-qa-with-entailment-trees/</guid><description/></item><item><title>Balancing Precision and Recall for Neural Biomedical Event Extraction</title><link>https://westlake-nlp.github.io/publication/2022.-balancing-precision-and-recall-for-neural-biomedical-event-extraction/</link><pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-balancing-precision-and-recall-for-neural-biomedical-event-extraction/</guid><description/></item><item><title>SemGloVe: Semantic Co-occurrences for GloVe from BERT</title><link>https://westlake-nlp.github.io/publication/2022.-semglove-semantic-co-occurrences-for-glove-from-bert/</link><pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-semglove-semantic-co-occurrences-for-glove-from-bert/</guid><description/></item><item><title>Universal machine-learning algorithm for predicting adsorption performance of organic molecules based on limited data set: importance of feature description</title><link>https://westlake-nlp.github.io/publication/2022-universal-machine-learning-algorithm-for-predicting-adsorption-performance-of-organic-molecules-based-on-limited-data-set-importance-of-feature-description/</link><pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022-universal-machine-learning-algorithm-for-predicting-adsorption-performance-of-organic-molecules-based-on-limited-data-set-importance-of-feature-description/</guid><description/></item><item><title>Categorizing Semantic Representations for Neural Machine Translation</title><link>https://westlake-nlp.github.io/publication/2022.-categorizing-semantic-representations-for-neural-machine-translation/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-categorizing-semantic-representations-for-neural-machine-translation/</guid><description/></item><item><title>Exploiting Sentiment and Common Sense for Zero-shot Stance Detection</title><link>https://westlake-nlp.github.io/publication/2022.-exploiting-sentiment-and-common-sense-for-zero-shot-stance-detection/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-exploiting-sentiment-and-common-sense-for-zero-shot-stance-detection/</guid><description/></item><item><title>Exploiting Unlabeled Data for Target-Oriented Opinion Words Extraction</title><link>https://westlake-nlp.github.io/publication/2022.-exploiting-unlabeled-data-for-target-oriented-opinion-words-extraction/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-exploiting-unlabeled-data-for-target-oriented-opinion-words-extraction/</guid><description/></item><item><title>FactMix: Using a Few Labeled In-domain Examples to Generalize to Cross-domain Named Entity Recognition</title><link>https://westlake-nlp.github.io/publication/2022.-factmix-using-a-few-labeled-in-domain-examples-to-generalize-to-cross-domain-named-entity-recognition/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-factmix-using-a-few-labeled-in-domain-examples-to-generalize-to-cross-domain-named-entity-recognition/</guid><description/></item><item><title>Human-in-the-loop Robotic Grasping Using BERT Scene Representation</title><link>https://westlake-nlp.github.io/publication/2022.-human-in-the-loop-robotic-grasping-using-bert-scene-representation/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-human-in-the-loop-robotic-grasping-using-bert-scene-representation/</guid><description/></item><item><title>Mere Contrastive Learning for Cross-Domain Sentiment Analysis</title><link>https://westlake-nlp.github.io/publication/2022.-mere-contrastive-learning-for-cross-domain-sentiment-analysis/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-mere-contrastive-learning-for-cross-domain-sentiment-analysis/</guid><description/></item><item><title>Meta-learning the invariant representation for domain generalization</title><link>https://westlake-nlp.github.io/publication/2022-metalearning-the-invariant-representation-for-domain-generalization/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022-metalearning-the-invariant-representation-for-domain-generalization/</guid><description/></item><item><title>On the Role of Pre-trained Language Models in Word Ordering: A Case Study with BART</title><link>https://westlake-nlp.github.io/publication/2022.-on-the-role-of-pre-trained-language-models-in-word-ordering-a-case-study-with-bart/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-on-the-role-of-pre-trained-language-models-in-word-ordering-a-case-study-with-bart/</guid><description/></item><item><title>Recent Advances in Text-to-SQL: A Survey of What We Have and What We Expect</title><link>https://westlake-nlp.github.io/publication/2022.-recent-advances-in-text-to-sql-a-survey-of-what-we-have-and-what-we-expect/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-recent-advances-in-text-to-sql-a-survey-of-what-we-have-and-what-we-expect/</guid><description/></item><item><title>Semantic-based Pre-training for Dialogue Understanding</title><link>https://westlake-nlp.github.io/publication/2022.-semantic-based-pre-training-for-dialogue-understanding/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-semantic-based-pre-training-for-dialogue-understanding/</guid><description/></item><item><title>Speeding up Transformer Decoding via an Attention Refinement Network</title><link>https://westlake-nlp.github.io/publication/2022.-speeding-up-transformer-decoding-via-an-attention-refinement-network/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-speeding-up-transformer-decoding-via-an-attention-refinement-network/</guid><description/></item><item><title>USB: A Unified Semi-supervised Learning Benchmark for Classification</title><link>https://westlake-nlp.github.io/publication/2022.-usb-a-unified-semi-supervised-learning-benchmark-for-classification/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-usb-a-unified-semi-supervised-learning-benchmark-for-classification/</guid><description/></item><item><title>Contrastive Latent Variable Models for Neural Text Generation</title><link>https://westlake-nlp.github.io/publication/2022.-contrastive-latent-variable-models-for-neural-text-generation/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-contrastive-latent-variable-models-for-neural-text-generation/</guid><description/></item><item><title>Roadmap toward the metaverse: An AI perspective</title><link>https://westlake-nlp.github.io/publication/2022.-roadmap-toward-the-metaverse-an-ai-perspective/</link><pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-roadmap-toward-the-metaverse-an-ai-perspective/</guid><description/></item><item><title>Towards Event-Level Causal Relation Identification</title><link>https://westlake-nlp.github.io/publication/2022.-towards-event-level-causal-relation-identification/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-towards-event-level-causal-relation-identification/</guid><description/></item><item><title>NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-Task Financial Forecasting</title><link>https://westlake-nlp.github.io/publication/2022.-numhtml-numeric-oriented-hierarchical-transformer-model-for-multi-task-financial-forecasting/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-numhtml-numeric-oriented-hierarchical-transformer-model-for-multi-task-financial-forecasting/</guid><description/></item><item><title>A Graph Enhanced BERT Model for Event Prediction</title><link>https://westlake-nlp.github.io/publication/2022.-a-graph-enhanced-bert-model-for-event-prediction/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-a-graph-enhanced-bert-model-for-event-prediction/</guid><description/></item><item><title>A Rationale-Centric Framework for Human-in-the-loop Machine Learning</title><link>https://westlake-nlp.github.io/publication/2022.-a-rationale-centric-framework-for-human-in-the-loop-machine-learning/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-a-rationale-centric-framework-for-human-in-the-loop-machine-learning/</guid><description/></item><item><title>Challenges to Open-Domain Constituency Parsing</title><link>https://westlake-nlp.github.io/publication/2022.-challenges-to-open-domain-constituency-parsing/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-challenges-to-open-domain-constituency-parsing/</guid><description/></item><item><title>Discrete Opinion Tree Induction for Aspect-based Sentiment Analysis</title><link>https://westlake-nlp.github.io/publication/2022.-discrete-opinion-tree-induction-for-aspect-based-sentiment-analysis/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-discrete-opinion-tree-induction-for-aspect-based-sentiment-analysis/</guid><description/></item><item><title>Graph Pre-training for AMR Parsing and Generation</title><link>https://westlake-nlp.github.io/publication/2022.-graph-pre-training-for-amr-parsing-and-generation/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-graph-pre-training-for-amr-parsing-and-generation/</guid><description/></item><item><title>Investigating Non-local Features for Neural Constituency Parsing</title><link>https://westlake-nlp.github.io/publication/2022.-investigating-non-local-features-for-neural-constituency-parsing/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-investigating-non-local-features-for-neural-constituency-parsing/</guid><description/></item><item><title>Prompt-Driven Neural Machine Translation</title><link>https://westlake-nlp.github.io/publication/2022.-prompt-driven-neural-machine-translation/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-prompt-driven-neural-machine-translation/</guid><description/></item><item><title>Using Context-to-Vector with Graph Retrofitting to Improve Word Embeddings</title><link>https://westlake-nlp.github.io/publication/2022.-using-context-to-vector-with-graph-retrofitting-to-improve-word-embeddings/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-using-context-to-vector-with-graph-retrofitting-to-improve-word-embeddings/</guid><description/></item><item><title>Multi-Domain Spoken Language Understanding Using Domain- and Task-Aware Parameterization</title><link>https://westlake-nlp.github.io/publication/2022.-multi-domain-spoken-language-understanding-using-domain-and-task-aware-parameterization/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/2022.-multi-domain-spoken-language-understanding-using-domain-and-task-aware-parameterization/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://westlake-nlp.github.io/news/getting-started/</link><pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/news/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;ol>
+&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
+&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
+&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
+&lt;/ol>
+&lt;p>&lt;a href="https://wowchemy.com" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomsponsor">&lt;a href="https://wowchemy.com/sponsor/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
+&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/sponsor/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Writing technical content in Markdown</title><link>https://westlake-nlp.github.io/news/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/news/writing-technical-content/</guid><description>&lt;p>Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p>
+&lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
+&lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p>
+&lt;h2 id="examples">Examples&lt;/h2>
+&lt;h3 id="code">Code&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for highlighting code syntax. You can customize the styles under the &lt;code>syntax_highlighter&lt;/code> option in your &lt;code>config/_default/params.yaml&lt;/code> file.&lt;/p>
+&lt;pre>&lt;code>```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">pandas&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="nn">pd&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">data&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">pd&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">read_csv&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;data.csv&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">data&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">head&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="mindmaps">Mindmaps&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for mindmaps.&lt;/p>
+&lt;p>Simply insert a Markdown &lt;code>markmap&lt;/code> code block and optionally set the height of the mindmap as shown in the example below.&lt;/p>
+&lt;p>A simple mindmap defined as a Markdown list:&lt;/p>
+&lt;div class="highlight">
+&lt;pre class="chroma">
+&lt;code>
+```markmap {height="200px"}
+- Hugo Modules
+- wowchemy
+- wowchemy-plugins-netlify
+- wowchemy-plugins-netlify-cms
+- wowchemy-plugins-reveal
+```
+&lt;/code>
+&lt;/pre>
+&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;div class="markmap" style="height: 200px;">
+&lt;pre>- Hugo Modules
+- wowchemy
+- wowchemy-plugins-netlify
+- wowchemy-plugins-netlify-cms
+- wowchemy-plugins-reveal&lt;/pre>
+&lt;/div>
+&lt;p>A more advanced mindmap with formatting, code blocks, and math:&lt;/p>
+&lt;div class="highlight">
+&lt;pre class="chroma">
+&lt;code>
+```markmap
+- Mindmaps
+- Links
+- [Wowchemy Docs](https://wowchemy.com/docs/)
+- [Discord Community](https://discord.gg/z8wNYzb)
+- [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+- Features
+- Markdown formatting
+- **inline** ~~text~~ *styles*
+- multiline
+text
+- `inline code`
+-
+```js
+console.log('hello');
+console.log('code block');
+```
+- Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code>
+&lt;/pre>
+&lt;/div>
+&lt;p>renders as&lt;/p>
+&lt;div class="markmap" style="height: 500px;">
+&lt;pre>- Mindmaps
+- Links
+- [Wowchemy Docs](https://wowchemy.com/docs/)
+- [Discord Community](https://discord.gg/z8wNYzb)
+- [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+- Features
+- Markdown formatting
+- **inline** ~~text~~ *styles*
+- multiline
+text
+- `inline code`
+-
+```js
+console.log('hello');
+console.log('code block');
+```
+- Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre>
+&lt;/div>
+&lt;h3 id="charts">Charts&lt;/h3>
+&lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
+&lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
+&lt;p>Demo:&lt;/p>
+&lt;div id="chart-148365927" class="chart">&lt;/div>
+&lt;script>
+(function() {
+let a = setInterval( function() {
+if ( typeof window.Plotly === 'undefined' ) {
+return;
+}
+clearInterval( a );
+Plotly.d3.json("./line-chart.json", function(chart) {
+Plotly.plot('chart-148365927', chart.data, chart.layout, {responsive: true});
+});
+}, 500 );
+})();
+&lt;/script>
+&lt;p>You might also find the &lt;a href="http://plotly-json-editor.getforge.io/" target="_blank" rel="noopener">Plotly JSON Editor&lt;/a> useful.&lt;/p>
+&lt;h3 id="math">Math&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code>math&lt;/code> option in your &lt;code>config/_default/params.yaml&lt;/code> file.&lt;/p>
+&lt;p>To render &lt;em>inline&lt;/em> or &lt;em>block&lt;/em> math, wrap your LaTeX math with &lt;code>{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code> or &lt;code>{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code>, respectively. (We wrap the LaTeX math in the Wowchemy &lt;em>math&lt;/em> shortcode to prevent Hugo rendering our math as Markdown. The &lt;em>math&lt;/em> shortcode is new in v5.5-dev.)&lt;/p>
+&lt;p>Example &lt;strong>math block&lt;/strong>:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-latex" data-lang="latex">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">$$&lt;/span>&lt;span class="nb">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="nv">\gamma&lt;/span>&lt;span class="nb">_{n} &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\frac&lt;/span>&lt;span class="nb">{ &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> | &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n} &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">} &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb">^T &lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">[&lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F &lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb"> x_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">]&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> |}{&lt;/span>&lt;span class="nv">\left&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\|\nabla&lt;/span>&lt;span class="nb"> F&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb">{x}_{n}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\nabla&lt;/span>&lt;span class="nb"> F&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nv">\mathbf&lt;/span>&lt;span class="nb">{x}_{n&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\right&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\|&lt;/span>&lt;span class="nb">^&lt;/span>&lt;span class="m">2&lt;/span>&lt;span class="nb">}
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="s">$$&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; /math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;p>Example &lt;strong>inline math&lt;/strong> &lt;code>{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code> renders as
+$\nabla F(\mathbf{x}_{n})$.&lt;/p>
+&lt;p>Example &lt;strong>multi-line math&lt;/strong> using the math linebreak (&lt;code>\\&lt;/code>):&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-latex" data-lang="latex">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="sb">$$&lt;/span>&lt;span class="nb">f&lt;/span>&lt;span class="o">(&lt;/span>&lt;span class="nb">k;p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">}&lt;/span>&lt;span class="o">)&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="nb"> &lt;/span>&lt;span class="nv">\begin&lt;/span>&lt;span class="nb">{cases}p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">} &amp;amp; &lt;/span>&lt;span class="nv">\text&lt;/span>&lt;span class="nb">{if }k&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="nb">, &lt;/span>&lt;span class="nv">\\&lt;/span>&lt;span class="nb">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">&lt;/span>&lt;span class="m">1&lt;/span>&lt;span class="o">-&lt;/span>&lt;span class="nb">p_{&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">}^{&lt;/span>&lt;span class="o">*&lt;/span>&lt;span class="nb">} &amp;amp; &lt;/span>&lt;span class="nv">\text&lt;/span>&lt;span class="nb">{if }k&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="nb">.&lt;/span>&lt;span class="nv">\end&lt;/span>&lt;span class="nb">{cases}&lt;/span>&lt;span class="s">$$&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">{{&lt;/span>&amp;lt; /math &amp;gt;&lt;span class="nb">}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+&lt;h3 id="diagrams">Diagrams&lt;/h3>
+&lt;p>Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code>diagram&lt;/code> option in your &lt;code>config/_default/params.toml&lt;/code> file or by adding &lt;code>diagram: true&lt;/code> to your page front matter.&lt;/p>
+&lt;p>An example &lt;strong>flowchart&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">graph TD
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+&lt;/div>
+&lt;p>An example &lt;strong>sequence diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">sequenceDiagram
+Alice->>John: Hello John, how are you?
+loop Healthcheck
+John->>John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John-->>Alice: Great!
+John->>Bob: How about you?
+Bob-->>John: Jolly good!
+&lt;/div>
+&lt;p>An example &lt;strong>Gantt diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+gantt
+section Section
+Completed :done, des1, 2014-01-06,2014-01-08
+Active :active, des2, 2014-01-07, 3d
+Parallel 1 : des3, after des1, 1d
+Parallel 2 : des4, after des1, 1d
+Parallel 3 : des5, after des3, 1d
+Parallel 4 : des6, after des4, 1d
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">gantt
+section Section
+Completed :done, des1, 2014-01-06,2014-01-08
+Active :active, des2, 2014-01-07, 3d
+Parallel 1 : des3, after des1, 1d
+Parallel 2 : des4, after des1, 1d
+Parallel 3 : des5, after des3, 1d
+Parallel 4 : des6, after des4, 1d
+&lt;/div>
+&lt;p>An example &lt;strong>class diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &amp;lt;--&amp;gt; C2: Cool label
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --> C2 : Where am i?
+Class09 --* C3
+Class09 --|> Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--> C2: Cool label
+&lt;/div>
+&lt;p>An example &lt;strong>state diagram&lt;/strong>:&lt;/p>
+&lt;pre>&lt;code>```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code>&lt;/pre>
+&lt;p>renders as&lt;/p>
+&lt;div class="mermaid">stateDiagram
+[*] --> Still
+Still --> [*]
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
+&lt;/div>
+&lt;h3 id="todo-lists">Todo lists&lt;/h3>
+&lt;p>You can even write your todo lists in Markdown too:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [x]&lt;/span> Write math example
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">- [x]&lt;/span> Write diagram example
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">- [ ]&lt;/span> Do something else
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write math example
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write diagram example&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Do something else&lt;/li>
+&lt;/ul>
+&lt;h3 id="tables">Tables&lt;/h3>
+&lt;p>Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em>Table&lt;/em> shortcode to your page:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-go" data-lang="go">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{{&amp;lt;&lt;/span> &lt;span class="nx">table&lt;/span> &lt;span class="nx">path&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;results.csv&amp;#34;&lt;/span> &lt;span class="nx">header&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;true&amp;#34;&lt;/span> &lt;span class="nx">caption&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s">&amp;#34;Table 1: My results&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;}}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;table class="table">
+&lt;tr> &lt;th>customer_id&lt;/th> &lt;th>score&lt;/th> &lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">1&lt;/td>
+&lt;td data-table-dtype="number">0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2&lt;/td>
+&lt;td data-table-dtype="text">0.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">3&lt;/td>
+&lt;td data-table-dtype="number">1&lt;/td>
+&lt;/tr>
+&lt;caption>Table 1: My results&lt;/caption>
+&lt;/table>
+&lt;h3 id="callouts">Callouts&lt;/h3>
+&lt;p>Academic supports a &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/#callouts" target="_blank" rel="noopener">shortcode for callouts&lt;/a>, also referred to as &lt;em>asides&lt;/em>, &lt;em>hints&lt;/em>, or &lt;em>alerts&lt;/em>. By wrapping a paragraph in &lt;code>{{% callout note %}} ... {{% /callout %}}&lt;/code>, it will render as an aside.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% callout note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% /callout %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/div>
+&lt;/div>
+&lt;h3 id="spoilers">Spoilers&lt;/h3>
+&lt;p>Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">spoiler&lt;/span> &lt;span class="na">text&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;Click to view the spoiler&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">You found me!
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="p">/&lt;/span>&lt;span class="nt">spoiler&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;details class="spoiler " id="spoiler-6">
+&lt;summary>Click to view the spoiler&lt;/summary>
+&lt;p>You found me!&lt;/p>
+&lt;/details>
+&lt;h3 id="icons">Icons&lt;/h3>
+&lt;p>Academic enables you to use a wide range of &lt;a href="https://wowchemy.com/docs/getting-started/page-builder/#icons" target="_blank" rel="noopener">icons from &lt;em>Font Awesome&lt;/em> and &lt;em>Academicons&lt;/em>&lt;/a> in addition to &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/#emojis" target="_blank" rel="noopener">emojis&lt;/a>.&lt;/p>
+&lt;p>Here are some examples using the &lt;code>icon&lt;/code> shortcode to render icons:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;terminal&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fas&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} Terminal
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;python&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fab&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} Python
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">icon&lt;/span> &lt;span class="na">name&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;r-project&amp;#34;&lt;/span> &lt;span class="na">pack&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;fab&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}} R
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>renders as&lt;/p>
+&lt;p>
+&lt;i class="fas fa-terminal pr-1 fa-fw">&lt;/i> Terminal&lt;br>
+&lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Python&lt;br>
+&lt;i class="fab fa-r-project pr-1 fa-fw">&lt;/i> R&lt;/p>
+&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>https://westlake-nlp.github.io/news/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/news/jupyter/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">IPython.core.display&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">Image&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">Image&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./index_1_0.png" alt="png" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Welcome to Academic!&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code>Welcome to Academic!
+&lt;/code>&lt;/pre>
+&lt;h2 id="install-python-and-jupyterlab">Install Python and JupyterLab&lt;/h2>
+&lt;p>&lt;a href="https://www.anaconda.com/distribution/#download-section" target="_blank" rel="noopener">Install Anaconda&lt;/a> which includes Python 3 and JupyterLab.&lt;/p>
+&lt;p>Alternatively, install JupyterLab with &lt;code>pip3 install jupyterlab&lt;/code>.&lt;/p>
+&lt;h2 id="create-or-upload-a-jupyter-notebook">Create or upload a Jupyter notebook&lt;/h2>
+&lt;p>Run the following commands in your Terminal, substituting &lt;code>&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code> and &lt;code>&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code> with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">jupyter lab index.ipynb
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>The &lt;code>jupyter&lt;/code> command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p>
+&lt;h2 id="edit-your-post-metadata">Edit your post metadata&lt;/h2>
+&lt;p>The first cell of your Jupter notebook will contain your post metadata (&lt;a href="https://sourcethemes.com/academic/docs/front-matter/" target="_blank" rel="noopener">front matter&lt;/a>).&lt;/p>
+&lt;p>In Jupter, choose &lt;em>Markdown&lt;/em> as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">---
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">title: My post&amp;#39;s title
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">date: 2019-09-01
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"># Put any other Academic metadata here...
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">---
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Edit the metadata of your post, using the &lt;a href="https://sourcethemes.com/academic/docs/managing-content" target="_blank" rel="noopener">documentation&lt;/a> as a guide to the available options.&lt;/p>
+&lt;p>To set a &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#featured-image" target="_blank" rel="noopener">featured image&lt;/a>, place an image named &lt;code>featured&lt;/code> into your post&amp;rsquo;s folder.&lt;/p>
+&lt;p>For other tips, such as using math, see the guide on &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">writing content with Academic&lt;/a>.&lt;/p>
+&lt;h2 id="convert-notebook-to-markdown">Convert notebook to Markdown&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class="o">=&lt;/span>.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="example">Example&lt;/h2>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>https://westlake-nlp.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://revealjs.com/pdf-export/" target="_blank" rel="noopener">PDF Export&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">porridge&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">porridge&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Eating...&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+( f\left( x \right) = ;\frac{2\left( {x + 4} \right)\left( {x - 4} \right)}{\left( {x + 4} \right)\left( {x + 1} \right)} )
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">{{% fragment %}} One {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} Three {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% speaker_note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Only the speaker can read these notes
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Press &lt;span class="sb">`S`&lt;/span> key to view
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {{% /speaker_note %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-image&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;/media/boards.jpg&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-color&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;#0000FF&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;my-style&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h1&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h2&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h3&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">color&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">navy&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Example Project</title><link>https://westlake-nlp.github.io/project/example/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/project/example/</guid><description>&lt;p>111dsasdsaLorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
+&lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
+&lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
+&lt;p>Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p></description></item><item><title>External Project</title><link>https://westlake-nlp.github.io/project/external-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/project/external-project/</guid><description/></item><item><title>An example conference paper</title><link>https://westlake-nlp.github.io/publication/conference-paper/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/publication/conference-paper/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://westlake-nlp.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/admin/config.yml</guid><description/></item><item><title>Natural Language Processing - A Machine Learning Perspective</title><link>https://westlake-nlp.github.io/teaching/example/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/teaching/example/</guid><description>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://westlakenlp.github.io/nlpml/static_files/presentations/lec.jpg" alt="Natural Language Processing" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;div class="alert alert-note">
+&lt;div>
+&lt;h4 id="updates">&lt;strong>Updates&lt;/strong>&lt;/h4>
+&lt;ul>
+&lt;li>Our class is now forwarded to &lt;a href="https://www.zhihu.com/education/video-course/1564218549538607104?section_id=1566029317481652224" target="_blank" rel="noopener">Zhihu&lt;/a>，feel free to follow us!&lt;/li>
+&lt;li>New Lecture is online: Working with two texts [&lt;a href="https://www.bilibili.com/video/BV1td4y1r7pw?t=0.5" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide17.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/li>
+&lt;li>New Lecture is online: Neural structured prediction [&lt;a href="https://www.bilibili.com/video/BV1CG411V7aY?t=5.5" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide16.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/li>
+&lt;li>New Lecture is online: Representation learning [&lt;a href="https://www.bilibili.com/video/BV16v4y1c7uF?t=1.2" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide15.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/li>
+&lt;li>New Assignment released: [&lt;a href="https://westlakenlp.github.io/nlpml/assignments/09_assignment" target="_blank" rel="noopener">Assignment #9 - chapter 9&lt;/a>]&lt;/li>
+&lt;li>New Lecture is online: Transition-based method for structure prediction [&lt;a href="https://www.bilibili.com/video/BV13R4y1w7pd?t=2.5" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide13.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/li>
+&lt;li>New Assignment released: [&lt;a href="https://westlakenlp.github.io/nlpml/assignments/08_assignment" target="_blank" rel="noopener">Assignment #8 - chapter 8&lt;/a>]&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="course-description">Course Description&lt;/h2>
+&lt;p>This online course is based on the recently released textbook, &lt;a href="https://www.cambridge.org/core_title/gb/509717" target="_blank" rel="noopener">Natural Language Processing - a Machine Learning Perspective&lt;/a>, written by Dr. Yue Zhang &amp;amp; Dr. Zhiyang Teng and published by Cambridge University Press. The course is taught in Chinese, English version of the class will be updated in future releases. Professor Yue Zhang is the principal inverstigator of the Text Intelligence Lab, Westlake University, and a well-known NLP researcher. You may find more detailed information at his &lt;a href="https://frcchang.github.io/" target="_blank" rel="noopener">personal page&lt;/a> or &lt;a href="https://scholar.google.com/citations?user=6hA7WmUAAAAJ&amp;amp;hl=zh-CN&amp;amp;oi=ao" target="_blank" rel="noopener">Google Scholar&lt;/a>. Course updates are in progress on our bilibili account, &lt;a href="https://space.bilibili.com/639900532" target="_blank" rel="noopener">WestlakeNLP&lt;/a>, do not hesitate to follow us! In this page, we will keep updating course slides.&lt;/p>
+&lt;h2 id="instructors">Instructors&lt;/h2>
+&lt;table width="100%" align="center">
+&lt;tr>
+&lt;td align="center" style="margin-bottom:40px">&lt;img src="../../people/faculty/zhangyue.jpg" width="150" height="150" />&lt;h4>&lt;a href="https://frcchang.github.io/" style="text-decoration: none;">Zhang Yue&lt;/a>&lt;/h4>&lt;font color="#9EA0A4">Tenured Full Professor&lt;/font>&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;h2 id="teaching-assistants">Teaching Assistants&lt;/h2>
+&lt;table width="100%" align="center">
+&lt;tr>
+&lt;td align="center" style="margin-bottom:40px">&lt;img src="../../people/phd/chenyulong.jpg" width="100" height="100"/>&lt;h4>&lt;a href="https://scholar.google.com/citations?user=8P23zSkAAAAJ&amp;hl=en" style="text-decoration: none;">Chen Yulong&lt;/a>&lt;/h4>&lt;/td>
+&lt;td align="center" style="margin-bottom:40px">&lt;img src="../../people/alummi/fuqiankun.jpg" width="100" height="100"/>&lt;h4>&lt;a href="https://scholar.google.com/citations?user=UOoP794AAAAJ&amp;hl=zh-CN" style="text-decoration: none;">Fu Qiankun&lt;/a>&lt;/h4>&lt;/td>
+&lt;td align="center" style="margin-bottom:40px">&lt;img src="../../people/phd/liuhanmeng.jpg" width="100" height="100"/>&lt;h4>&lt;a href="https://www.dtalg.com/" style="text-decoration: none;">Liu Hanmeng&lt;/a>&lt;/h4>&lt;/td>
+&lt;td align="center" style="margin-bottom:40px">&lt;img src="../../people/research_assistants/liupai.jpg" width="100" height="100"/>&lt;h4>Liu Pai&lt;/h4>&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;h2 id="materials">Materials&lt;/h2>
+&lt;h3 id="book">&lt;strong>Book&lt;/strong>&lt;/h3>
+&lt;p>&lt;a href="https://www.cambridge.org/core_title/gb/509717" target="_blank" rel="noopener">Natural Language Processing - A Machine Learning Perspective&lt;/a>&lt;/p>
+&lt;h3 id="additional-course-materials">&lt;strong>Additional Course Materials&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>Other recomend textbooks and reading materials (update continuing).&lt;/li>
+&lt;li>&lt;a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank" rel="noopener">Material #1&lt;/a>: Speech and Language processing&lt;/li>
+&lt;/ul>
+&lt;h2 id="lectures">Lectures&lt;/h2>
+&lt;p>You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+&lt;table class="table">
+&lt;tr> &lt;th>Date&lt;/th> &lt;th>Title&lt;/th> &lt;th>Material&lt;/th> &lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">09/08/2021 Wednesday&lt;/td>
+&lt;td data-table-dtype="text">Course Intro&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/note1.txt" target="_blank" rel="noopener">notes&lt;/a>] [&lt;a href="https://www.bilibili.com/video/BV1r3411q74d?share_source=copy_web" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide1.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">09/08/2021 Wednesday&lt;/td>
+&lt;td data-table-dtype="text">Content&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/note2.txt" target="_blank" rel="noopener">notes&lt;/a>] [&lt;a href="https://www.bilibili.com/video/BV1n34y1Q7YK?share_source=copy_web" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide1.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">09/10/2021 Friday&lt;/td>
+&lt;td data-table-dtype="text">History of Natural Language Processing&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/note3.txt" target="_blank" rel="noopener">notes&lt;/a>] [&lt;a href="https://www.bilibili.com/video/BV1pf4y1P7Rq?share_source=copy_web" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slides2.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">09/10/2021 Friday&lt;/td>
+&lt;td data-table-dtype="text">Counting relative frequencies&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://b23.tv/n7RgC6" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slides3.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">10/13/2021 Wednesday&lt;/td>
+&lt;td data-table-dtype="text">Feature Vectors&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://b23.tv/zYnb1Sp" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slides4.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">11/05/2021 Friday&lt;/td>
+&lt;td data-table-dtype="text">Discriminative Linear Classifiers&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://b23.tv/m4FcCVX" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slides5.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">12/06/2021 Monday&lt;/td>
+&lt;td data-table-dtype="text">Using Information Theory&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://b23.tv/Xb6V1BK" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slides6.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">12/20/2021 Monday&lt;/td>
+&lt;td data-table-dtype="text">Hidden Variables&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://b23.tv/779gyf5" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slides7.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">01/07/2022 Friday&lt;/td>
+&lt;td data-table-dtype="text">Generative Sequence Labeling&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://b23.tv/mtNax3v" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide8.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">01/21/2022 Friday&lt;/td>
+&lt;td data-table-dtype="text">Discriminative Sequence Labeling&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://www.bilibili.com/video/BV1s44y1L7js?t=2.1" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide9.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">03/07/2022 Monday&lt;/td>
+&lt;td data-table-dtype="text">Sequence Segmentation&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://www.bilibili.com/video/BV1s44y1L7js?t=2.1" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide10.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">03/30/2022 Wednesday&lt;/td>
+&lt;td data-table-dtype="text">Neural Networks&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://www.bilibili.com/video/BV1xP4y1M7xm?share_source=copy_web" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide11.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">03/30/2022 Wednesday&lt;/td>
+&lt;td data-table-dtype="text">Neural Networks&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://www.bilibili.com/video/BV1xP4y1M7xm?t=3.0" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide14.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">04/22/2022 Friday&lt;/td>
+&lt;td data-table-dtype="text">Predicting Tree Structures&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://www.bilibili.com/video/BV12Z4y1176K?t=1.3" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide12.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">05/20/2022 Friday&lt;/td>
+&lt;td data-table-dtype="text">Transition-based method for structure prediction&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://www.bilibili.com/video/BV13R4y1w7pd?t=2.5" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide13.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">08/15/2022 Monday&lt;/td>
+&lt;td data-table-dtype="text">Representation learning&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://www.bilibili.com/video/BV16v4y1c7uF?t=1.2" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide15.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">09/05/2022 Monday&lt;/td>
+&lt;td data-table-dtype="text">Neural structured prediction&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://www.bilibili.com/video/BV1CG411V7aY?t=5.5" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide16.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">09/05/2022 Monday&lt;/td>
+&lt;td data-table-dtype="text">Working with two texts&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://www.bilibili.com/video/BV1td4y1r7pw?t=0.5" target="_blank" rel="noopener">video&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/presentations/slide17.pdf" target="_blank" rel="noopener">slides&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">12/05/2022 Monday&lt;/td>
+&lt;td data-table-dtype="text">Pre-training and Transfer Learning&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://www.bilibili.com/video/BV1PV4y1P7eW/?spm_id_from=333.999.0.0" target="_blank" rel="noopener">video&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;caption>Lectures List&lt;/caption>
+&lt;/table>
+&lt;/p>
+&lt;h2 id="assignments">Assignments&lt;/h2>
+&lt;p>You can download the assignments here. Also check out each assignment page for any additional info.&lt;/p>
+&lt;h4 id="late-policy">&lt;strong>Late Policy&lt;/strong>&lt;/h4>
+&lt;ul>
+&lt;li>You have free 8 late days.&lt;/li>
+&lt;li>You can use late days for assignments. A late day extends the deadline 24 hours.&lt;/li>
+&lt;li>Once you have used all 8 late days, the penalty is 10% for each additional late day.
+&lt;table class="table">
+&lt;tr> &lt;th>Release Date&lt;/th> &lt;th>Description&lt;/th> &lt;th>Due Date&lt;/th> &lt;th>Material&lt;/th> &lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">03/05/2022 Saturday&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://westlakenlp.github.io/nlpml/assignments/01_sample_assignment" target="_blank" rel="noopener">Assignment #1 - chapter 1&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">03/16/2022 23:59 Wednesday&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/asg1.pdf" target="_blank" rel="noopener">problems&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/asg1_solutions.pdf" target="_blank" rel="noopener">solutions&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">03/15/2022 Tuesday&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://westlakenlp.github.io/nlpml/assignments/02_assignment" target="_blank" rel="noopener">Assignment #2 - chapter 2&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">03/26/2022 23:59 Saturday&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/chapter2_ex.pdf" target="_blank" rel="noopener">problems&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/reference_answer.pdf" target="_blank" rel="noopener">solutions&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">04/05/2022 Tuesday&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://westlakenlp.github.io/nlpml/assignments/03_assignment" target="_blank" rel="noopener">Assignment #3 - chapter 3&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">04/16/2022 23:59 Saturday&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/chapter3_ex.pdf" target="_blank" rel="noopener">problems&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/reference_answer.pdf" target="_blank" rel="noopener">solutions&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">04/15/2022 Friday&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://westlakenlp.github.io/nlpml/assignments/04_assignment" target="_blank" rel="noopener">Assignment #4 - chapter 4&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">04/26/2022 23:59 Tuesday&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/chapter4_ex.pdf" target="_blank" rel="noopener">problems&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/reference_answer.pdf" target="_blank" rel="noopener">solutions&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">04/15/2022 Friday&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://westlakenlp.github.io/nlpml/assignments/05_assignment" target="_blank" rel="noopener">Assignment #5 - chapter 5&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">04/26/2022 23:59 Tuesday&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/chapter5_ex.pdf" target="_blank" rel="noopener">problems&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/reference_answer.pdf" target="_blank" rel="noopener">solutions&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">04/25/2022 Monday&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://westlakenlp.github.io/nlpml/assignments/06_assignment" target="_blank" rel="noopener">Assignment #6 - chapter 6&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">05/06/2022 23:59 Friday&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/chapter6_ex.pdf" target="_blank" rel="noopener">problems&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/reference_answer.pdf" target="_blank" rel="noopener">solutions&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">05/05/2022 Thursday&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://westlakenlp.github.io/nlpml/assignments/07_assignment" target="_blank" rel="noopener">Assignment #7 - chapter 7&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">05/16/2022 23:59 Monday&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/chapter7_ex.pdf" target="_blank" rel="noopener">problems&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/reference_answer.pdf" target="_blank" rel="noopener">solutions&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">05/15/2022 Sunday&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://westlakenlp.github.io/nlpml/assignments/08_assignment" target="_blank" rel="noopener">Assignment #8 - chapter 8&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">05/26/2022 23:59 Thursday&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/chapter8_ex.pdf" target="_blank" rel="noopener">problems&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/reference_answer.pdf" target="_blank" rel="noopener">solutions&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">05/25/2022 Wednesday&lt;/td>
+&lt;td data-table-dtype="text">&lt;a href="https://westlakenlp.github.io/nlpml/assignments/09_assignment" target="_blank" rel="noopener">Assignment #9 - chapter 9&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">06/06/2022 23:59 Monday&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/chapter9_ex.pdf" target="_blank" rel="noopener">problems&lt;/a>] [&lt;a href="https://westlakenlp.github.io/nlpml/static_files/assignments/reference_answer.pdf" target="_blank" rel="noopener">solutions&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;caption>Assignments List&lt;/caption>
+&lt;/table>
+&lt;/li>
+&lt;/ul></description></item><item><title>Projects</title><link>https://westlake-nlp.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/projects/</guid><description>&lt;h2 id="project-list">Project List&lt;/h2>
+&lt;table class="table">
+&lt;tr> &lt;th>项目名称&lt;/th> &lt;th>项目类别&lt;/th> &lt;th>参与者（仅统计在实验室人员）&lt;/th> &lt;th>进度&lt;/th> &lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">新一代自然语言处理表示方法研究&lt;/td>
+&lt;td data-table-dtype="text">浙江省科技厅重点纵向项目&lt;/td>
+&lt;td data-table-dtype="text">杨林易、李雅夫、尹永竞、白雪峰、王存翔、罗云、闵庆凯、陈雨龙、郭放、刘派&lt;/td>
+&lt;td data-table-dtype="text">进行中 (2024-11-01)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">基于新闻领域的开放目标立场识别&lt;/td>
+&lt;td data-table-dtype="text">新华社横向项目&lt;/td>
+&lt;td data-table-dtype="text">石岳峰、罗云、杨林易&lt;/td>
+&lt;td data-table-dtype="text">进行中&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">基于互联网的人工智能技术在中国和国际资本市场的创新应用&lt;/td>
+&lt;td data-table-dtype="text">国家级人才项目&lt;/td>
+&lt;td data-table-dtype="text">杨林易、马英鹏&lt;/td>
+&lt;td data-table-dtype="text">进行中 (2023-12-31)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">语言桥机器翻译系统&lt;/td>
+&lt;td data-table-dtype="text">语言桥横向项目&lt;/td>
+&lt;td data-table-dtype="text">白雪峰，陈雨龙，尹永竞，李雅夫，鲍光胜，颜建昊&lt;/td>
+&lt;td data-table-dtype="text">进行中 (2025-12-31)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">面向成分句法分析的跨领域知识抽取与融合&lt;/td>
+&lt;td data-table-dtype="text">国家面上纵向项目&lt;/td>
+&lt;td data-table-dtype="text">白雪峰，贾晨&lt;/td>
+&lt;td data-table-dtype="text">进行中 (2023-12-31)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">模块化语义神经机器翻译研究与落地&lt;/td>
+&lt;td data-table-dtype="text">国家科技部国际合作港澳台重点纵向项目&lt;/td>
+&lt;td data-table-dtype="text">白雪峰、鲍光胜、李雅夫、尹永竞、颜建昊、杨林易&lt;/td>
+&lt;td data-table-dtype="text">进行中 (2025-12-31)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">神经对话系统的泛化性研究&lt;/td>
+&lt;td data-table-dtype="text">腾讯犀牛鸟横向项目&lt;/td>
+&lt;td data-table-dtype="text">白雪峰&lt;/td>
+&lt;td data-table-dtype="text">进行中&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">中国资本市场文本智能研究&lt;/td>
+&lt;td data-table-dtype="text">北京融汇金信横向项目&lt;/td>
+&lt;td data-table-dtype="text">杨林易&lt;/td>
+&lt;td data-table-dtype="text">进行中&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">侵入式语音解码&lt;/td>
+&lt;td data-table-dtype="text">浙大二院横向项目&lt;/td>
+&lt;td data-table-dtype="text">曹路、冯琛、欧泽斌&lt;/td>
+&lt;td data-table-dtype="text">进行中&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">自然语言理解和生成的前沿技术与应用&lt;/td>
+&lt;td data-table-dtype="text">腾讯微信横向项目&lt;/td>
+&lt;td data-table-dtype="text">尹永竞&lt;/td>
+&lt;td data-table-dtype="text">进行中&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">描述性长文本的自动理解与生成技术研究&lt;/td>
+&lt;td data-table-dtype="text">北大面上纵向合作项目&lt;/td>
+&lt;td data-table-dtype="text">鲍光胜、胡涵旭、陈雨龙&lt;/td>
+&lt;td data-table-dtype="text">进行中&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">之江实验室事件抽取&lt;/td>
+&lt;td data-table-dtype="text">之江实验室纵向项目&lt;/td>
+&lt;td data-table-dtype="text">闵庆凯、高文炀、刘派、栗英杰&lt;/td>
+&lt;td data-table-dtype="text">申请中&lt;/td>
+&lt;/tr>
+&lt;caption>Project List&lt;/caption>
+&lt;/table></description></item><item><title>Reading Group</title><link>https://westlake-nlp.github.io/reading/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/reading/</guid><description>&lt;h2 id="reading-list-2022">Reading List 2022&lt;/h2>
+&lt;table class="table">
+&lt;tr> &lt;th>Title&lt;/th> &lt;th>Date&lt;/th> &lt;th>Time&lt;/th> &lt;th>Presentor&lt;/th> &lt;th>Resource&lt;/th> &lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://paperswithcode.com/paper/cebab-estimating-the-causal-effects-of-real" target="_blank" rel="noopener">CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/9/14&lt;/td>
+&lt;td data-table-dtype="text">2:00-3:00pm&lt;/td>
+&lt;td data-table-dtype="text">Hongliang Li&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">Uni-Encoder: A Fast and Accurate Response Selection Paradigm for Generation-Based Dialogue Systems&lt;/td>
+&lt;td data-table-dtype="text">2022/9/21&lt;/td>
+&lt;td data-table-dtype="text">2:00-3:00pm&lt;/td>
+&lt;td data-table-dtype="text">Chiyu Song&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">CausaLM: Causal Model Explanation through Counterfactual Language Models&lt;/td>
+&lt;td data-table-dtype="text">2022/9/29&lt;/td>
+&lt;td data-table-dtype="text">3:30-4:30pm&lt;/td>
+&lt;td data-table-dtype="text">Linyi Yang&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">AI and the Everything in the Whole Wide World Benchmark&lt;/td>
+&lt;td data-table-dtype="text">2022/9/29&lt;/td>
+&lt;td data-table-dtype="text">3:30-4:30pm&lt;/td>
+&lt;td data-table-dtype="text">Naihao Deng&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://aclanthology.org/2022.acl-long.104.pdf" target="_blank" rel="noopener">Bias Mitigation in Machine Translation Quality Estimation&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/10/10&lt;/td>
+&lt;td data-table-dtype="text">1:30-2:30pm&lt;/td>
+&lt;td data-table-dtype="text">Yafu Li&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">Discussion for AI and the Everything in the Whole Wide World Benchmark&lt;/td>
+&lt;td data-table-dtype="text">2022/10/10&lt;/td>
+&lt;td data-table-dtype="text">2:00-3:00pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://aclanthology.org/2022.acl-long.40/" target="_blank" rel="noopener">TableFormer: Robust Transformer Modeling for Table-Text Encoding&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/10/19&lt;/td>
+&lt;td data-table-dtype="text">2:00-3:00pm&lt;/td>
+&lt;td data-table-dtype="text">Naihao Deng&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://github.com/google-research/tapas" target="_blank" rel="noopener">Github&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://www.microsoft.com/en-us/research/uploads/prod/2022/10/CameraReady_NeurIPS22_SELOR.pdf" target="_blank" rel="noopener">Self-explaining deep models with logic rule reasoning&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/10/26&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">Linyi Yang&lt;/td>
+&lt;td data-table-dtype="text">[&lt;a href="https://researchsummit.microsoft.com/en-US/sessions/8f704b9f-c421-4b59-b019-579f3e359793?source=/community-connect" target="_blank" rel="noopener">Microsoft Research&lt;/a>] [&lt;a href="https://github.com/archon159/SELOR" target="_blank" rel="noopener">Code&lt;/a>]&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://arxiv.org/pdf/2206.02369.pdf" target="_blank" rel="noopener">Learning to Break the Loop: Analyzing and Mitigating Repetitions for Neural Text Generation&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/10/26&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">Jianhao Yan&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://arxiv.org/pdf/2203.10692v1.pdf" target="_blank" rel="noopener">Better Language Model with Hypernym Class Prediction&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/10/26&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">Guangsheng Bao&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">Open Domain Question Answering with A Unified Knowledge Interface&lt;/td>
+&lt;td data-table-dtype="text">2022/11/2&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">Cunxiang Wang and Naihao Deng&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://www.notion.so/History-of-Philosophy-of-Language-Does-There-Exist-a-Parallelism-to-the-History-of-NLP-7ffa8a00cd2440bf9e15b974d26b034e" target="_blank" rel="noopener">History of Philosophy of Language: Does There Exist a Parallelism to the History of NLP&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/11/9&lt;/td>
+&lt;td data-table-dtype="text">2:00-3:00pm&lt;/td>
+&lt;td data-table-dtype="text">Ruoxi Ning&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">Meta-learning via Language Model In-context Tuning&lt;/td>
+&lt;td data-table-dtype="text">2022/11/16&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">Naihao Deng&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">Consensuses and disagreements in the in-context learning studies&lt;/td>
+&lt;td data-table-dtype="text">2022/11/23&lt;/td>
+&lt;td data-table-dtype="text">2:00-3:00pm&lt;/td>
+&lt;td data-table-dtype="text">Hongliang Li&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">2022/11/30&lt;/td>
+&lt;td data-table-dtype="text">2:00-3:00pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://arxiv.org/pdf/2211.05041.pdf" target="_blank" rel="noopener">MACSUM: Controllable Summarization with Mixed Attributes&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/12/7&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">Yulong&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://aclanthology.org/2022.acl-long.171.pdf" target="_blank" rel="noopener">Bottom-Up Constituency Parsing and Nested Named Entity Recognition with Pointer Networks&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/12/7&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">Xuefeng&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://aclanthology.org/2022.acl-long.195.pdf" target="_blank" rel="noopener">A Meta-framework for Spatiotemporal Quantity Extraction from Text&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/12/7&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">Fang&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://aclanthology.org/2022.acl-long.207.pdf" target="_blank" rel="noopener">BRIO: Bringing Order to Abstractive Summarization&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/12/14&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">Guangsheng&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;a href="https://aclanthology.org/2022.acl-long.226.pdf" target="_blank" rel="noopener">Training Data is More Valuable than You Think: A Simple and Effective Method by Retrieving from Training Data&lt;/a>&lt;/td>
+&lt;td data-table-dtype="text">2022/12/14&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">Cunxiang&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">2022/12/21&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">2022/12/21&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">2022/12/28&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">2023/1/11&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">2023/1/11&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">2023/1/18&lt;/td>
+&lt;td data-table-dtype="text">2:00-4:00pm&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;td data-table-dtype="text">&lt;/td>
+&lt;/tr>
+&lt;caption>Reading List 2022&lt;/caption>
+&lt;/table></description></item><item><title>Research Seminars</title><link>https://westlake-nlp.github.io/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://westlake-nlp.github.io/talks/</guid><description>&lt;h2 id="conference-tutorials">Conference Tutorials&lt;/h2>
+&lt;table class="table">
+&lt;tr> &lt;th>Year&lt;/th> &lt;th>Conference&lt;/th> &lt;th>Title&lt;/th> &lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2022&lt;/td>
+&lt;td data-table-dtype="text">North American Chapter of the Association for Computational Linguistics (NAACL)&lt;/td>
+&lt;td data-table-dtype="text">Contrastive learning for NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2021&lt;/td>
+&lt;td data-table-dtype="text">ADL.Chinese Computer Federation (CCF)&lt;/td>
+&lt;td data-table-dtype="text">Graph Neural Networks in NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2019&lt;/td>
+&lt;td data-table-dtype="text">ATT14.Chinese Information Processing Society of China (CIPS)&lt;/td>
+&lt;td data-table-dtype="text">Graph Neural Networks in NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2018&lt;/td>
+&lt;td data-table-dtype="text">The Empirical Methods on Natural Language Processing (EMNLP)&lt;/td>
+&lt;td data-table-dtype="text">Joint Models in NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2017&lt;/td>
+&lt;td data-table-dtype="text">The International Joint Conference on Natural Language Processing (IJCNLP)&lt;/td>
+&lt;td data-table-dtype="text">Deep Learning for Syntactic and Semantic Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2017&lt;/td>
+&lt;td data-table-dtype="text">The China National Conference on Computational Linguistics (CCL)&lt;/td>
+&lt;td data-table-dtype="text">Joint Models for NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2016&lt;/td>
+&lt;td data-table-dtype="text">The Empirical Methods for Natural Language Processing (EMNLP)&lt;/td>
+&lt;td data-table-dtype="text">Neural Network for Sentiment Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2016&lt;/td>
+&lt;td data-table-dtype="text">The China National Conference on Computational Linguistics (CCL)&lt;/td>
+&lt;td data-table-dtype="text">Deep Learning for Syntactic and Semantic Analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2014&lt;/td>
+&lt;td data-table-dtype="text">The Annual Meeting of the Association for Computational Linguistics (ACL)&lt;/td>
+&lt;td data-table-dtype="text">Syntactic Processing Using Global Discriminative Learning and Beam-Search Decoding&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2010&lt;/td>
+&lt;td data-table-dtype="text">The Annual Conference ofthe North American Chapter of the Association for Computational Linguistics (HLT:NAACL)&lt;/td>
+&lt;td data-table-dtype="text">Recent Advances in Dependency Parsing&lt;/td>
+&lt;/tr>
+&lt;caption>Conference Tutorials&lt;/caption>
+&lt;/table>
+&lt;h2 id="invited-talks">Invited Talks&lt;/h2>
+&lt;table class="table">
+&lt;tr> &lt;th>Year&lt;/th> &lt;th>Talk&lt;/th> &lt;th>Title&lt;/th> &lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2022&lt;/td>
+&lt;td data-table-dtype="text">Keynote at MIT Technology Review 20 year forum&lt;/td>
+&lt;td data-table-dtype="text">Robustness for machine translation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2022&lt;/td>
+&lt;td data-table-dtype="text">Keynote at CNCC few-shot NLP forum&lt;/td>
+&lt;td data-table-dtype="text">Data Augmentation for few-shot NLI&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2022&lt;/td>
+&lt;td data-table-dtype="text">Keynote at CCAC&lt;/td>
+&lt;td data-table-dtype="text">Semantic structures for sentiment&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2022&lt;/td>
+&lt;td data-table-dtype="text">University of Edinburgh ICCS&lt;/td>
+&lt;td data-table-dtype="text">OOD generalization for NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2021&lt;/td>
+&lt;td data-table-dtype="text">Keynote at IALP&lt;/td>
+&lt;td data-table-dtype="text">Challenges in NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2021&lt;/td>
+&lt;td data-table-dtype="text">Keynote at PACLIC&lt;/td>
+&lt;td data-table-dtype="text">Document-Level NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2021&lt;/td>
+&lt;td data-table-dtype="text">Oxford ML Summer School&lt;/td>
+&lt;td data-table-dtype="text">Challenges in NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2021&lt;/td>
+&lt;td data-table-dtype="text">Keynote at CAAI&lt;/td>
+&lt;td data-table-dtype="text">Open-domain Dialogue&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2021&lt;/td>
+&lt;td data-table-dtype="text">Keynote at YSSNLP&lt;/td>
+&lt;td data-table-dtype="text">Compositional Generalization of Machine Translation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2020&lt;/td>
+&lt;td data-table-dtype="text">Keynote at CTC&lt;/td>
+&lt;td data-table-dtype="text">Beyond Words — Commonsense Reasoning in Language Understanding&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2020&lt;/td>
+&lt;td data-table-dtype="text">Chair at COLING2020 PANEL2&lt;/td>
+&lt;td data-table-dtype="text">On The Generalization of NLP Models – Ways Around Data Hunger&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2020&lt;/td>
+&lt;td data-table-dtype="text">Keynote at COLING2020 WS-MSR&lt;/td>
+&lt;td data-table-dtype="text">AMR to Text Generation - A Brief Review And A Case Study Using Back-parsing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2020&lt;/td>
+&lt;td data-table-dtype="text">Keynote at CAAI Industry Forum&lt;/td>
+&lt;td data-table-dtype="text">The Bottleneck of NLP Fundamental Tasks in NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2019&lt;/td>
+&lt;td data-table-dtype="text">Hundsun Technologies Inc&lt;/td>
+&lt;td data-table-dtype="text">Natural Language Processing And Computational Financial Research&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2019&lt;/td>
+&lt;td data-table-dtype="text">Technische Universit ̈at Darmstadt&lt;/td>
+&lt;td data-table-dtype="text">Graph Neural Networks in NLP&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2019&lt;/td>
+&lt;td data-table-dtype="text">HSBC open day on Sep&lt;/td>
+&lt;td data-table-dtype="text">NLP and financial markets&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2019&lt;/td>
+&lt;td data-table-dtype="text">Keynote at CCF Social Media Program&lt;/td>
+&lt;td data-table-dtype="text">Cross-domain sentiment analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2019&lt;/td>
+&lt;td data-table-dtype="text">Dagstuhl seminar&lt;/td>
+&lt;td data-table-dtype="text">Invited attendance&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2018&lt;/td>
+&lt;td data-table-dtype="text">Uppsala University&lt;/td>
+&lt;td data-table-dtype="text">Graph Recurrent Neural Networks&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2018&lt;/td>
+&lt;td data-table-dtype="text">Cloud Town Conference by Alibaba&lt;/td>
+&lt;td data-table-dtype="text">Deep Learning for parsing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2017&lt;/td>
+&lt;td data-table-dtype="text">Yuan Ze University&lt;/td>
+&lt;td data-table-dtype="text">Stock Prediction&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2017&lt;/td>
+&lt;td data-table-dtype="text">A-STAR&lt;/td>
+&lt;td data-table-dtype="text">Deep Learning for parsing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2017&lt;/td>
+&lt;td data-table-dtype="text">Keynote at Singapore Deep Learning for Finance Summit&lt;/td>
+&lt;td data-table-dtype="text">Using deep learning for predicting USA stock markets&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2016&lt;/td>
+&lt;td data-table-dtype="text">Keynote at Deep Learning Summit Singapore&lt;/td>
+&lt;td data-table-dtype="text">Deep Learning for sentiment analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2016&lt;/td>
+&lt;td data-table-dtype="text">Keynote at SmartConnected.World and ICEC 2016. Suwon. Korea&lt;/td>
+&lt;td data-table-dtype="text">Deep Learning&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2016&lt;/td>
+&lt;td data-table-dtype="text">University of Berkeley&lt;/td>
+&lt;td data-table-dtype="text">Neural network structured prediction&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2016&lt;/td>
+&lt;td data-table-dtype="text">University of South California. Information Science Institute&lt;/td>
+&lt;td data-table-dtype="text">Neural network structured prediction&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2016&lt;/td>
+&lt;td data-table-dtype="text">Singapore Actuary Society&lt;/td>
+&lt;td data-table-dtype="text">Text mining&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2015&lt;/td>
+&lt;td data-table-dtype="text">Keynote at Global Innovators Forum on Technology and Society. Harbin. China&lt;/td>
+&lt;td data-table-dtype="text">Text mining&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2015&lt;/td>
+&lt;td data-table-dtype="text">Keynote at ADSM Deep learning workshop&lt;/td>
+&lt;td data-table-dtype="text">Deep Learning for stock market prediction&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2014&lt;/td>
+&lt;td data-table-dtype="text">Tsinghua University (China)&lt;/td>
+&lt;td data-table-dtype="text">CCG parsing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2014&lt;/td>
+&lt;td data-table-dtype="text">Universitat Pompeu Fabra (Spain)&lt;/td>
+&lt;td data-table-dtype="text">Statistical text generation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2014&lt;/td>
+&lt;td data-table-dtype="text">University of A Coruna (Spain)&lt;/td>
+&lt;td data-table-dtype="text">Chinese syntactic analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2014&lt;/td>
+&lt;td data-table-dtype="text">Peking University&lt;/td>
+&lt;td data-table-dtype="text">Chinese syntactic analysis&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2013&lt;/td>
+&lt;td data-table-dtype="text">Tsinghua University&lt;/td>
+&lt;td data-table-dtype="text">Dependency parsing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2013&lt;/td>
+&lt;td data-table-dtype="text">Baidu Inc (China)&lt;/td>
+&lt;td data-table-dtype="text">Word ordering&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2013&lt;/td>
+&lt;td data-table-dtype="text">Keynote at CWMT&lt;/td>
+&lt;td data-table-dtype="text">Semantics Based Statistical Machine Translation&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2012&lt;/td>
+&lt;td data-table-dtype="text">Institute of Infocomm Research (Singapore)&lt;/td>
+&lt;td data-table-dtype="text">CCG parsing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2011&lt;/td>
+&lt;td data-table-dtype="text">Cambridge NLIP seminar&lt;/td>
+&lt;td data-table-dtype="text">Surprisingly Efficient Parsing for a Wide-Coverage Lexicalised-Grammar Parser&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2010&lt;/td>
+&lt;td data-table-dtype="text">Uppsala University (Sweden)&lt;/td>
+&lt;td data-table-dtype="text">Dependency parsing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2009&lt;/td>
+&lt;td data-table-dtype="text">the NLIP group seminar. University of Cambridge&lt;/td>
+&lt;td data-table-dtype="text">Dependency parsing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2008&lt;/td>
+&lt;td data-table-dtype="text">the School of Informatics (ICCS). University of Edinburgh&lt;/td>
+&lt;td data-table-dtype="text">Dependency parsing&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td data-table-dtype="number">2008&lt;/td>
+&lt;td data-table-dtype="text">Sharp Research Europe Ltd.&lt;/td>
+&lt;td data-table-dtype="text">Word segmentation&lt;/td>
+&lt;/tr>
+&lt;caption>Invited Talks&lt;/caption>
+&lt;/table></description></item></channel></rss>
