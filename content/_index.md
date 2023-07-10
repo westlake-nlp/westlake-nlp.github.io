@@ -141,70 +141,83 @@ sections:
         ## PhD Students
         <table width="100%" align="center" style="table-layout:fixed;">
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/yinyongjing.jpg" width="100" height="100"/><h4>Yongjing Yin</h4><font color="#9EA0A4">PhD Student</font></td>          
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/yanjianhao.jpg" width="100" height="100"/><h4><a href="https://elliottyan.github.io/" style="text-decoration: none;">Jianhao Yan</a></h4><font color="#9EA0A4">PhD Student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/chenyulong.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=8P23zSkAAAAJ&hl=en" style="text-decoration: none;">Yulong Chen</a></h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/baoguangsheng.jpg" width="100" height="100"/><h4>Guangsheng Bao</h4><font color="#9EA0A4">PhD Student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/gaowenyang.jpg" width="100" height="100"/><h4>Wenyang Gao</h4><font color="#9EA0A4">PhD Student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/guofang.jpg" width="100" height="100"/><h4>Fang Guo</h4><font color="#9EA0A4">PhD Student</font></td>                                
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/guofang.jpg" width="100" height="100"/><h4>Fang Guo</h4><font color="#9EA0A4">PhD Student</font></td>  
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/minqingkai.jpg" width="100" height="100"/><h4><a href="https://taolusi.github.io/qingkai_min/" style="text-decoration: none;">Qingkai Min</a></h4><font color="#9EA0A4">PhD Student</font></td>              
             </tr>
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/liuhanmeng.jpg" width="100" height="100"/><h4><a href="https://www.dtalg.com/" style="text-decoration: none;">Hanmeng Liu</a></h4><font color="#9EA0A4">PhD Student</font></td>  
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/songchiyu.jpg" width="100" height="100"/><h4>Chiyu Song</h4><font color="#9EA0A4">PhD Student</font></td>  
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/yinyongjing.jpg" width="100" height="100"/><h4>Yongjing Yin</h4><font color="#9EA0A4">PhD Student</font></td>          
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/liyafu.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=gEceD-sAAAAJ&hl=en" style="text-decoration: none;">Yafu Li</a></h4><font color="#9EA0A4">PhD Student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/luoyun.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=B_bdRlAAAAAJ&hl=zh-CN&authuser=1" style="text-decoration: none;">Yun Luo</a></h4><font color="#9EA0A4">PhD Student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/minqingkai.jpg" width="100" height="100"/><h4><a href="https://taolusi.github.io/qingkai_min/" style="text-decoration: none;">Qingkai Min</a></h4><font color="#9EA0A4">PhD Student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/songchiyu.jpg" width="100" height="100"/><h4>Chiyu Song</h4><font color="#9EA0A4">PhD Student</font></td>  
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/wusixuan.jpg" width="100" height="100"/><h4>Sixuan Wu</h4><font color="#9EA0A4">PhD Student</font></td>
             </tr>
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/wusixuan.jpg" width="100" height="100"/><h4>Sixuan Wu</h4><font color="#9EA0A4">PhD Student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/baoguangsheng.jpg" width="100" height="100"/><h4>Guangsheng Bao</h4><font color="#9EA0A4">PhD Student</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/phd/wangcunxiang.jpg" width="100" height="100"/><h4><a href="https://wangcunxiang.github.io/" style="text-decoration: none;">Cunxiang Wang</a></h4><font color="#9EA0A4">PhD Student</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/phd/yangzijie.jpg" width="100" height="100"/><h4>Zijie Yang</h4><font color="#9EA0A4">co-supervisor</font></td> 
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/chenyulong.jpg" width="100" height="100"/><h4><a href="https://scholar.google.com/citations?user=8P23zSkAAAAJ&hl=en" style="text-decoration: none;">Yulong Chen</a></h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/wangcunxiang.jpg" width="100" height="100"/><h4><a href="https://wangcunxiang.github.io/" style="text-decoration: none;">Cunxiang Wang</a></h4><font color="#9EA0A4">PhD Student</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/phd/liuhanmeng.jpg" width="100" height="100"/><h4><a href="https://www.dtalg.com/" style="text-decoration: none;">Hanmeng Liu</a></h4><font color="#9EA0A4">PhD Student</font></td>  
             </tr>
         </table> 
 
         ## Research Assistants
         <table width="100%" align="center" style="table-layout:fixed;">
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/liupai.jpg" width="100" height="100"/><h4>Pai Liu</h4><font color="#9EA0A4">Westlake University</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/mayingpeng.jpg" width="100" height="100"/><h4><a href="https://yingpengma.github.io/" style="text-decoration: none;">Yingpeng Ma</a></h4><font color="#9EA0A4">Westlake University</font></td>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangyidong.jpg" width="100" height="100"/><h4><a href="https://qianlanwyd.github.io/" style="text-decoration: none;">Yidong Wang</a></h4><font color="#9EA0A4">Weslake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/lupanzhong.png" width="100" height="100"/><h4><a href="https://nlpz127.github.io/homepage/" style="text-decoration: none;">Panzhong Lu</a></h4><font color="#9EA0A4">Weslake University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangyidong.jpg" width="100" height="100"/><h4><a href="https://qianlanwyd.github.io/" style="text-decoration: none;">Yidong Wang</a></h4><font color="#9EA0A4">Weslake University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/mayingpeng.jpg" width="100" height="100"/><h4><a href="https://yingpengma.github.io/" style="text-decoration: none;">Yingpeng Ma</a></h4><font color="#9EA0A4">Westlake University</font></td>
+                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/liupai.jpg" width="100" height="100"/><h4>Pai Liu</h4><font color="#9EA0A4">Westlake University</font></td>
             </tr>
         </table>
 
         ## Alummi
         - Post-doctors
-          + Zhongqing Wang, Feb. 2016 -- Jan. 2017; now at Soochow University, China
-          + Thien Hai Nguyen, Feb.2016 -- Jan. 2017; now at Alibaba in Singapore
+          + Zhongqing Wang, Feb. 2016 -- Jan. 2017; now Associate Professor at Soochow University, China
+          + Thien Hai Nguyen, Feb.2016 -- Jan. 2017; now at Alibaba, Singapore
           + Chingyun Chang, Mar. 2015 - Feb. 2016; now at Amazon London, UK
-          + Yafeng Ren, Sep. 2015 -- Sep. 2016; now at Guangdong University of Foreign Studies, China
-          + Meishan Zhang, Nov. 2014 - Nov. 2015; now works as associated professor at Tianjin University, China
+          + Yafeng Ren, Sep. 2015 -- Sep. 2016; now Associate Professor at Guangdong University of Foreign Studies, China
+          + Meishan Zhang, Nov. 2014 - Nov. 2015; now Associate Professor at Harbin Institute of Technology, Shenzhen (HITSZ), China
           + Likun Qiu, Jan. 2014 - Jan. 2015; now research fellow at Alibaba, China
 
         - Research Assistants
-          + Yueguan Wang, Oct. 2022 - Mar. 2023；now Master candidate at University of Tokyo, Japan
-          + <a href="https://kyriezz.com" style="text-decoration: none;">Zhixuan Zhou</a>, Jun. 2019 - Jul. 2019; now Ph.d student at UIUC 
-          + Yuze Gao, Oct. 2016 - Aug. 2018；now works as a research engineer at A-STAR*, Singapore
-          + Yu Yuan, Aug. 2017 - Jun. 2018; now at Nanjing University of Information Science and Technology
-          + Qi Liu, Mar. 2017 - Mar. 2018; now Ph.d candidate at University of Oxford
-          + Ratish Puduppully, Mar. 2017 – Sep. 2017; now Ph.d candidate at University of Edinburgh
-          + Homgmin Wang, Aug. 2016 – Aug. 2017; now Ph.d candidate at UCSB
-          + Jiangming Liu, May. 2015 - Sep. 2017; now Ph.d candidate at University of Edinburgh
-          + Hongshen Chen, Dec. 2015 – Jun. 2016; now at JD, China
-          + Lin Li, Aug. 2015 -- Jan. 2016; now at Huawei, China
-          + Yijia Liu, Nov. 2013 - Nov. 2014; now at Alibaba, China
-          + Zhongye Jia, May. 2013 - Feb. 2014; Baosteel Central Research Institute, China
+#          + Yuefeng Shi,
+#          + Hanxu Hu,
+#          + Zebin Ou,
+          + Yueguan Wang, now Master candidate at University of Tokyo, Japan
+          + Naihao Deng, now Ph.d candidate at University of Michigan, USA
+          + Sen Yang, now Ph.d candidate at Chinese University of Hong Kong (CUHK), China 
+          + <a href="https://kyriezz.com" style="text-decoration: none;">Zhixuan Zhou</a>, now Ph.d candidate at University of Illinois Urbana-Champaign (UIUC), USA
+          + Yuze Gao, currently a research engineer at A-STAR*, Singapore
+          + Yu Yuan, now at Nanjing University of Information Science and Technology, China
+          + Qi Liu, now Ph.d candidate at University of Oxford, UK
+          + Ratish Puduppully, now Ph.d candidate at University of Edinburgh, UK
+          + Homgmin Wang, now Ph.d candidate at UC Santa Barbara (UCSB), USA
+          + Jiangming Liu, Ph.d candidate at University of Edinburgh, UK; now Associate Professor at Yunnan University, China
+          + Hongshen Chen, now at JD, China
+          + Lin Li, now at Huawei, China
+          + Yijia Liu, now at Alibaba, China
+          + Zhongye Jia, now at Baosteel Central Research Institute, China
           
 
         - Graduated Phd Students
-          + Jie Yang, now Assistant Professor at Zhejiang University, China
+#          + Yaoxian Song
+#          + Xuefeng Bai
+#          + Jia Chen
+          + Leyang Cui, now works at Tencent, China
+          + Yile Wang, now Postdoc at Tsinghua University, China
+          + Qiankun Fu, now Lecture at Zhejiang City College, China
+          + Jian Liu, now Lecture at Putian University, China
+          + Lu Cao, now Postdoc at Westlake University, China
+          + Gary Goh, currently a Data Scientist at Garena, Singapore
           + Fei Dong, now works at Ebay Shanghai, China
-          + Tin D. Vo, currently a data scientist at  Chata.ai., Canada
-          + Zhiyang Teng , currently works as a research associate at NTU, Singapore
-          + Qiankun Fu , now Lecture at Zhejiang City College, China
-          + Yile Wang , now Postdoc at Tsinghua University, China
-          + Leyang Cui , now works at Tencent, China
-          + Jian Liu , now Lecture at Putian University, China
+          + Shuailong Liang, currently a Senior Data Scientist at Grab, Singapore
+          + Zhiyang Teng, now Research Assistant Professor at Nanyang Technological University (NTU), Singapore
+          + Jie Yang, now Assistant Professor at Zhejiang University, China
+          + Tin D. Vo, currently a Data Scientist at Chata.ai., Canada
+          + Cher Pei Hua, now Assistant Professor at Duke-NUS Medical School, Singapore
+
     design:
       columns: '1'  
 #  - block: markdown
