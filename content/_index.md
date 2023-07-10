@@ -165,7 +165,7 @@ sections:
         ## Research Assistants
         <table width="100%" align="center" style="table-layout:fixed;">
             <tr>
-                <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/zhangshuibai.png" width="100" height="100"/><h4><a href="" style="text-decoration: none;">Shuibai Zhang</a></h4><font color="#9EA0A4">Weslake University</font></td>
+                <!-- <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/zhangshuibai.png" width="100" height="100"/><h4><a href="" style="text-decoration: none;">Shuibai Zhang</a></h4><font color="#9EA0A4">Weslake University</font></td> -->
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/lupanzhong.png" width="100" height="100"/><h4><a href="https://nlpz127.github.io/homepage/" style="text-decoration: none;">Panzhong Lu</a></h4><font color="#9EA0A4">Weslake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/wangyidong.jpg" width="100" height="100"/><h4><a href="https://qianlanwyd.github.io/" style="text-decoration: none;">Yidong Wang</a></h4><font color="#9EA0A4">Weslake University</font></td>
                 <td align="center" style="margin-bottom:40px"><img src="./people/research_assistants/mayingpeng.jpg" width="100" height="100"/><h4><a href="https://yingpengma.github.io/" style="text-decoration: none;">Yingpeng Ma</a></h4><font color="#9EA0A4">Westlake University</font></td>
@@ -183,11 +183,7 @@ sections:
           + Likun Qiu, Jan. 2014 - Jan. 2015; now research fellow at Alibaba, China
 
         - Research Assistants
-<!-- 
-#          + Yuefeng Shi,
-#          + Hanxu Hu,
-#          + Zebin Ou,
--->
+          <!-- Yuefeng Shi Hanxu Hu Zebin Ou -->
           + Yueguan Wang, now Master candidate at University of Tokyo, Japan
           + Naihao Deng, now Ph.d candidate at University of Michigan, USA
           + Sen Yang, now Ph.d candidate at Chinese University of Hong Kong (CUHK), China 
@@ -205,11 +201,7 @@ sections:
           
 
         - Graduated Phd Students
-<!--
-#          + Yaoxian Song
-#          + Xuefeng Bai
-#          + Jia Chen
--->
+          <!-- Yaoxian Song Xuefeng Bai Jia Chen -->
           + Leyang Cui, now works at Tencent, China
           + Yile Wang, now Postdoc at Tsinghua University, China
           + Qiankun Fu, now Lecture at Zhejiang City College, China
